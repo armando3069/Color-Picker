@@ -1,6 +1,6 @@
 # Getting Started with Color Picker app
 
- [Create React App](https://ibb.co/PYgVbpz).
+(https://ibb.co/PYgVbpz).
 
 ## Available Scripts
 
