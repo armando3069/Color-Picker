@@ -1,0 +1,33 @@
+body
+{
+    background-image: url(http://www.transparenttextures.com/patterns/food.png);
+
+}
+
+
+.app
+{
+ display: flex;
+ flex-direction: column;
+}
+.contar
+{
+  
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+h1{
+    word-spacing: 20px;
+}
+.b{
+    font-size: 50px;
+    margin-left: 20px;
+}
+img
+{
+    margin-top: 100px;
+    margin-bottom: -100px;
+}
