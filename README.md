@@ -1,8 +1,6 @@
-# Getting Started with Color Picker app
+#  Color Picker app
 
-(https://ibb.co/PYgVbpz).
+[My app](https://ibb.co/PYgVbpz).
 
-## Available Scripts
-
-In the project directory, you can run:
+## yarn start command
 
